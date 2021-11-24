@@ -1,4 +1,4 @@
-// CustomHook API
+// Customhook API
 import { useState, useEffect } from "react";
 
 
